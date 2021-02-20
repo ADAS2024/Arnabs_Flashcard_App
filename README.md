@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-  FlashCard Appication
+  FlashCard Application
 
 ### App Walk-though
 
